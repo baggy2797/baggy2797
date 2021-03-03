@@ -8,7 +8,6 @@
 - 🔭 I’m currently working on myself
 - 🌱 I’m currently learning Tableau Desktop
 <!--- 👯 I’m looking to collaborate on software -->
-- 🤔 I’m looking for help with Python
 <!--- 💬 Ask me about -->
 - 📫 Email me : bhagwataditya226@gmail.com or abhagwa1@binghamton.edu
 - 😄 Pronouns: He/Him
