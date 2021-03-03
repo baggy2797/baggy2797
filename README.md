@@ -7,8 +7,7 @@
 </a>
 </p> -->
 
-
-https://img.shields.io/badge/author-Aditya%20Bhagwat-orange?style=for-the-badge&logo=appveyor
+<!--- https://img.shields.io/badge/author-Aditya%20Bhagwat-orange?style=for-the-badge&logo=appveyor -->
 
 - 🌱 I’m currently looking to get hired
 - 👯 I’m looking to develop my coding skills in Python
@@ -16,7 +15,7 @@ https://img.shields.io/badge/author-Aditya%20Bhagwat-orange?style=for-the-badge&
 - ⚡ Fun fact: I love listening to songs!
 
 
-### Connect with me:
+<!-- ### Connect with me: -->
 
 <!--[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]-->
 <!--[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]-->
