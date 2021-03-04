@@ -16,6 +16,14 @@
   
 
 ### Connect with me :
+<p align=”center”>
+<a href=”https://www.linkedin.com/in/adibhagwat/”>
+<img src=”https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
+</a>
+</p>
+
+
+
 - <img align="left" width="22px" src=https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg>[Linkedin] 
 <br />
 
