@@ -17,6 +17,8 @@
 - 🥅 2021 Goals: Contribute more towards self development
 - ⚡ Fun fact: I love listening to songs!
  
+### GitHub Stats:
+[![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=baggy2797)](https://github.com/baggy2797/github-readme-stats)
 
 
 ### Connect with me :
