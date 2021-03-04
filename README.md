@@ -1,5 +1,8 @@
 ### Hello There! I am Aditya Bhagwat! 👋
 
+<img src="https://img.shields.io/badge/author-Aditya%20Bhagwat-orange">
+
+
 
 <!-- <p align=”center”>
 <a href=”https://www.linkedin.com/in/adibhagwat/”>
@@ -11,20 +14,15 @@
 
 - 🌱 I’m currently looking to get hired
 - 👯 I’m looking to develop my coding skills in Python
-- 🥅 2020 Goals: Contribute more towards self development
+- 🥅 2021 Goals: Contribute more towards self development
 - ⚡ Fun fact: I love listening to songs!
-  
+ 
+
 
 ### Connect with me :
-<p align=”center”>
-<a href=”https://www.linkedin.com/in/adibhagwat/”>
-<img src=”https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
-</a>
-</p>
-
-
-
 - <img align="left" width="22px" src=https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg>[Linkedin] 
+- Email : bhagwataditya226@gmail.com or abhagwa1@binghamton.edu
 <br />
 
 [linkedin]: https://www.linkedin.com/in/adibhagwat/
+
