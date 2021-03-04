@@ -2,16 +2,6 @@
 
 <img src="https://img.shields.io/badge/author-Aditya%20Bhagwat-orange">
 
-
-
-<!-- <p align=”center”>
-<a href=”https://www.linkedin.com/in/adibhagwat/”>
-<img src=”https://img.shields.io/badge/LinkedIn-LinkedIn-blue?style=for-the-badge&logo=linkedin">
-</a>
-</p> -->
-
-<!--- https://img.shields.io/badge/author-Aditya%20Bhagwat-orange?style=for-the-badge&logo=appveyor -->
-
 - 🌱 I’m currently looking to get hired
 - 👯 I’m looking to develop my coding skills in Python
 - 🥅 2021 Goals: Contribute more towards self development
