@@ -7,6 +7,10 @@
 - 🥅 2021 Goals: Contribute more towards self development
 - ⚡ Fun fact: I love listening to songs!
  
+ ### ⚡ Fun fact: <br/> 
+<p align="center"><img src="https://readme-jokes.vercel.app/api?bgColor=%23212529&textColor=%23ffddd2&qColor=%23f94144&aColor=%2390be6d&borderColor=%23f9c74f&codeColor=%23f9c74f"></p>
+ 
+ 
 ### GitHub Stats:
 [![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=baggy2797)](https://github.com/baggy2797/github-readme-stats)
 
@@ -24,3 +28,7 @@
 [twitter]: https://twitter.com/bhaditya/
 [instagram]: https://www.instagram.com/aditya.2797/
 [facebook]: https://www.facebook.com/addo97/
+
+
+
+### <p align="center">Total Visitors 👉 ![Visitor Count](https://profile-counter.glitch.me/{baggy2797}/count.svg)</p>
