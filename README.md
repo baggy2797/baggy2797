@@ -3,7 +3,7 @@
 <img src="https://img.shields.io/badge/author-Aditya%20Bhagwat-orange">
 
 - 🌱 I’m currently looking to get hired
-- 👯 I’m looking to develop my coding skills in Python
+- 👯 I’m looking to develop a Cryptocurrency Tracker
 - 🥅 2021 Goals: Contribute more towards self development
 - ⚡ Fun fact: I love listening to songs!
  
