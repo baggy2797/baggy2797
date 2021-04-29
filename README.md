@@ -2,7 +2,7 @@
 
 
 
-<img src="https://img.shields.io/badge/author-Aditya%20Bhagwat-orange">
+<!--<img src="https://img.shields.io/badge/author-Aditya%20Bhagwat-orange"> -->
 
 
 
