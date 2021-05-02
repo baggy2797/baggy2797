@@ -16,7 +16,7 @@
 
 ### Here are some ideas to help you get started:
 
-- 🔭 I’m currently working on <strong>Full-Stack Web Development</strong>
+- 🔭 I’m currently working on <strong>Developing a Web Portfolio</strong>
 - 🌱 I’m currently learning <strong>CryptoCurrency Tracking System using Python3 </strong>
 - 🔍 I’m looking to collaborate on <strong>Software Development Projects</strong>
 - 💬 Ask me about <strong>Data Structures, Python3, C++</strong>
