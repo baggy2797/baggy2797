@@ -2,6 +2,9 @@
 
 # I am a Tweep #AdityaBhagwat :bird: #LoveWhereYouWork <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px">
 
+:world_map: ( वसुधैव कुटुम्बकम. from “vasudha”, the earth; “iva”, is ; and “kutumbakam”, family)
+
+
 <!--<img src="https://img.shields.io/badge/author-Aditya%20Bhagwat-orange"> -->
 
 
