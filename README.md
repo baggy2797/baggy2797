@@ -1,6 +1,6 @@
 <!---# Hey there ! I am Aditya Bhagwat ! &emsp;  -->
 
-# I am Tweep #AdityaBhagwat :bird: #LoveWhereYouWork <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px">
+# I am a Tweep #AdityaBhagwat :bird: #LoveWhereYouWork <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px">
 
 <!--<img src="https://img.shields.io/badge/author-Aditya%20Bhagwat-orange"> -->
 
