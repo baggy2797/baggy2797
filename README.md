@@ -1,16 +1,37 @@
-<!---# Hey there ! I am Aditya Bhagwat ! &emsp;  -->
-<!-- <iframe src="https://giphy.com/embed/QYkX9IMHthYn0Y3pcG" width="480" height="351" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hello-hi-spiderman-QYkX9IMHthYn0Y3pcG">via GIPHY</a></p> -->
-<h2> Hi, I'm Aditya Bhagwat! <iframesrc="https://giphy.com/gifs/hello-hi-spiderman-QYkX9IMHthYn0Y3pcG/giphy.gif" width="50"></h2>
-# I am a Tweep #AdityaBhagwat :bird: #LoveWhereYouWork <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px">
+<h2> Hi, I'm Aditya Bhagwat! <iframesrc="https://github.com/baggy2797/baggy2797/blob/main/spidermangif.gif" width="50"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px"> </h2>
+<img src="https://github.com/baggy2797/baggy2797/blob/main/spidermangif.gif">
+
+# I am an engineer at core :bird: #LoveWhereYouWork
+<p><em>Computer Science Engineer from <a href="https://www.binghamton.edu/">Binghamton University</a> and <a href="https://mu.ac.in/">University of Mumbai.</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Software Engineer at <a href="https://www.twitter.com">Twitter,Inc.</a><img src="https://tenor.com/view/twitter-gif-18981960" width="30"> 
+</em></p>
 
 :world_map: ( वसुधैव कुटुम्बकम. from “vasudha”, the earth; “iva”, is ; and “kutumbakam”, family)
 
-
-<!--<img src="https://img.shields.io/badge/author-Aditya%20Bhagwat-orange"> -->
-
-
-
 ### <p>Total Visitors 👉 ![Visitor Count](https://profile-counter.glitch.me/{baggy2797}/count.svg)</p>
+
+```javascript
+const thai = {
+  pronouns: "he" | "him",
+  code: [Java, Python, HTML, CSS, Swift],
+  experience: ["Worked on an E2E automation framework (based on XCUITest and Espresso) with Selenium and Appium integrated.",
+               "Created platform-agnostic test plans and designs that could run iOS and Android automation.",
+               "Developed an understanding of designing a framework that is extremely simple to maintain by using different layers for tests, methods, helpers, devices, and so on.",
+               "At the Intermediate level, I became acquainted with Applitools. It's a fantastic tool if you understand its features, such as Match Level and ignore regions."]
+  about me: {
+            Skills/Tools Utilized: "XCUITest, Espresso, TestRail, Jenkins, REST APIs",
+            Languages: "Java, Swift, Objective-C, Python",
+            Focus Areas: "Mobile Automation",
+            Tools : "BrowserStack , SauceLabs, Applitools",
+            Awards: "Worked on the Music Spaces HackWeek Project with a team of talented and self-volunteer tweeps, winning the Tweeps Choice Award in HackWeek 2021."                        
+                      },
+ challenge: "I am doing the #100DaysOfCode Leetcode challenge focused on Python and Java"
+}
+```
+
+
+
+
+
 
 
 ### How to reach me: <strong>(Click the badge to view my profiles !)</strong>
@@ -27,10 +48,6 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact about me: I can talk 24/7 about football.
 
-### Tools I work upon : 🛠
-<img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white">   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">   <img src="https://img.shields.io/badge/Linux%20-%23323330.svg?&style=for-the-badge&logo=Linux&logoColor=%23F7DF1E">   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white">   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white">  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-<hr>
-
 ### GitHub Stats:
 [![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=baggy2797)](https://github.com/baggy2797/github-readme-stats)
 
@@ -40,7 +57,10 @@
 [facebook]: https://www.facebook.com/addo97/
 
 
+
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+
 #### Thank You-🙏🏼
 ⭐️ From [Aditya Bhagwat](https://github.com/baggy2797)
-
-
