@@ -1,5 +1,6 @@
 <!---# Hey there ! I am Aditya Bhagwat ! &emsp;  -->
-
+<!-- <iframe src="https://giphy.com/embed/QYkX9IMHthYn0Y3pcG" width="480" height="351" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hello-hi-spiderman-QYkX9IMHthYn0Y3pcG">via GIPHY</a></p> -->
+<h2> Hi, I'm Aditya Bhagwat! <img src="https://giphy.com/gifs/hello-hi-spiderman-QYkX9IMHthYn0Y3pcG" width="50"></h2>
 # I am a Tweep #AdityaBhagwat :bird: #LoveWhereYouWork <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px">
 
 :world_map: ( वसुधैव कुटुम्बकम. from “vasudha”, the earth; “iva”, is ; and “kutumbakam”, family)
