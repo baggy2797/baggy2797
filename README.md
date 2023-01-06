@@ -10,7 +10,7 @@
 ### <p>Total Visitors 👉 ![Visitor Count](https://profile-counter.glitch.me/{baggy2797}/count.svg)</p>
 
 ```javascript
-const thai = {
+const Indian = {
   pronouns: "he" | "him",
   code: [Java, Python, HTML, CSS, Swift],
   experience: ["Worked on an E2E automation framework (based on XCUITest and Espresso) with Selenium and Appium integrated.",
