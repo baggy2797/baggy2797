@@ -2,7 +2,7 @@
 <img src="https://github.com/baggy2797/baggy2797/blob/main/spidermangif.gif">
 
 # I am an engineer at core :bird: #LoveWhereYouWork
-<p><em>Computer Science Engineer from <a href="https://www.binghamton.edu/">Binghamton University</a> and <a href="https://mu.ac.in/">University of Mumbai.</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Software Engineer at <a href="https://www.twitter.com">Twitter,Inc.</a><img src="https://tenor.com/view/twitter-gif-18981960" width="30"> 
+<p><em>Computer Science Engineer from <a href="https://www.binghamton.edu/">Binghamton University</a> and <a href="https://mu.ac.in/">University of Mumbai.</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Ex-Software Engineer at <a href="https://www.twitter.com">Twitter,Inc.</a><img src="https://tenor.com/view/twitter-gif-18981960" width="30"> 
 </em></p>
 
 :world_map: ( वसुधैव कुटुम्बकम. from “vasudha”, the earth; “iva”, is ; and “kutumbakam”, family)
