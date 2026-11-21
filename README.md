@@ -83,7 +83,7 @@ fuel: ☕ + ⚽
 <tr>
 <td width="50%" valign="top">
 
-### 🧪 flakewatch 🔒
+### 🧪 [flakewatch ↗](https://github.com/baggy2797/flakewatch)
 **A detective for flaky tests.**
 Reads the JUnit XML your CI already produces, scores every test across runs, and explains *why* each one is flaky with Selenium-aware rules and an optional LLM. Then it quarantines tests with an expiry date.
 
@@ -95,7 +95,7 @@ Reads the JUnit XML your CI already produces, scores every test across runs, and
 </td>
 <td width="50%" valign="top">
 
-### 🧭 journeyprobe 🔒
+### 🧭 [journeyprobe ↗](https://github.com/baggy2797/journeyprobe)
 **Persona tests written by an LLM, replayed without one.**
 *"Maya, a budget-conscious student, wants a mug"* becomes a reviewable YAML plan. Playwright replays it deterministically, and broken locators get suggested fixes as a diff that's never applied automatically.
 
